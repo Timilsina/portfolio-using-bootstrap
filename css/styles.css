@@ -1,0 +1,134 @@
+
+/*  we want display width of our naviagation bar to be 90% of the screen */
+.navbar
+{
+margin-left: 5%;
+margin-right: 5%;
+}
+
+.navbar_font
+{
+  font-family: Helvetica;
+  font-size: 22px;
+}
+.navbar_padding
+{
+    padding: 15px 40px 20px 75px;
+
+}
+
+/* size for logo image on the navigation bar */
+.img_size_logo
+{
+  height: 50px;
+}
+
+.container-fluid{
+ padding: 20px 0px 0px 0px;
+ font-family:Helvetica;
+ font-weight: regular;
+ font-size: 200%;
+ color:#757575;
+}
+
+
+/* size for the portfolio owner photo */
+.img_size_owner
+{
+  width: 100%;
+  padding: 30px 20px 30px 0px;
+}
+.thumnail_width
+{
+  width: 80%;
+}
+
+.horizontal-line-template
+{
+  border-style: inset;
+  border-width: 1px;
+  width:80%;
+}
+.horizontal-line-template_for_portforlio
+{
+  border-style: inset;
+  border-width: 3px;
+  border-color: white;
+  width:50%;
+}
+.distance_from_left_owner_discription
+{
+  padding-left: 20px;
+}
+.background_color_for_userdescription
+{
+  background-color: #DADADA;
+  width:90%;
+}
+
+.portfolio_image_size
+{
+  margin: 30px 0px 0px 0px;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+
+
+}
+#addtion_info
+{
+  padding-bottom: 20px;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.8;
+    background-color: white;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+/* linkedin */
+.fa-linkedin{
+    background: #337AB7;
+    color: white;
+}
+/* github */
+.fa-github-alt {
+    background: #337AC7;
+    color:white;
+
+}
+.footer_padding
+{
+  padding: 40px 40px 40px 40px;
+  background-color: #222222;
+  color: white;
+  font-family: Helvetica;
+  font-size: 17px;
+
+
+}
+#footerr
+{
+  margin-left: 5%;
+  margin-right: 5%;
+}
